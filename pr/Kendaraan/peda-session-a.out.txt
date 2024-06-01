@@ -1,0 +1,3 @@
+break * "KoleksiKendaraan::operator<<(Kendaraan const&)"
+disable $bpnum
+
